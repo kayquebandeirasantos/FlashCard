@@ -1,12 +1,12 @@
 
 criaCartao(
-'Bíblia',
-'Qual é o livro mais curto da Bíblia?',
-'O livro mais curto da Bíblia é Obadias, que possui apenas 21 versículos.'
+'geografia',
+'qual o maior continente do mundo?',
+'Ásia.'
 )
 
 criaCartao(
-'Bíblia',
+'B',
 'Quem escreveu a maioria dos Salmos?',
 'A maioria dos Salmos é atribuída ao rei Davi, embora outros autores também tenham contribuído.'
 )
